@@ -89,4 +89,4 @@ test accuracy results before hyperparameter tuning
 - The data set used can be found [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
 - The data report can be found [here](https://docs.google.com/document/d/1O5D6JFYrI-r6pv-e7zAtOJ6FaOYzyCF9HsA6f3iITfU/edit#)
 - The notebook can be found [here](http://localhost:8888/notebooks/SyriaTel%20Customer%20Churn.ipynb#3.5.2.-Decision-Tree-Classifier)
-- The Presentation Slides can be found [here](file:///C:/Users/Patience/Downloads/SyriaTel%20Customer%20Churn.pdf)
+- The Presentation Slides can be found [here](https://docs.google.com/presentation/d/1GbwvpXN6El28v2S36Ipdy0Vcbu_7y9_38WnSY-loi2w/edit#slide=id.gc6f9e470d_0_126)
