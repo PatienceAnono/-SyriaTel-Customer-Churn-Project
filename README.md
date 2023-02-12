@@ -1,10 +1,10 @@
 # -SyriaTel-Customer-Churn-Project
 
-![image](![image](https://user-images.githubusercontent.com/116062465/218259787-663028fe-fecb-4461-a472-08971c85394f.png)
+![image](https://user-images.githubusercontent.com/116062465/218259787-663028fe-fecb-4461-a472-08971c85394f.png)
 )
 
 
-## 1. INTRDUCTION
+## 1. INTRODUCTION
 Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company
 
 ## 2. BUSINESS PROBLEM
@@ -65,13 +65,13 @@ These are some of the questions that were answered:
 6.Which customers are likely to churn
 
 
-![image](![image](https://user-images.githubusercontent.com/116062465/218260430-b70bfe79-f299-412a-83bd-74c4538bc7d7.png)
+![image](https://user-images.githubusercontent.com/116062465/218260430-b70bfe79-f299-412a-83bd-74c4538bc7d7.png)
 )
-![image](![image](![image](https://user-images.githubusercontent.com/116062465/218260606-e3b5427c-ac30-4744-8231-edb03d907402.png)
+![image](https://user-images.githubusercontent.com/116062465/218260606-e3b5427c-ac30-4744-8231-edb03d907402.png)
 
 ### Modeling
 test accuracy results before hyperparameter tuning
-![image](![image](![image](https://user-images.githubusercontent.com/116062465/218260778-9070c833-5924-4bd9-82d9-778446018927.png)
+![image](https://user-images.githubusercontent.com/116062465/218260778-9070c833-5924-4bd9-82d9-778446018927.png)
 
 
 ## 5.CONCLUSIONS 
@@ -89,4 +89,4 @@ test accuracy results before hyperparameter tuning
 - The data set used can be found [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
 - The data report can be found [here](https://docs.google.com/document/d/1O5D6JFYrI-r6pv-e7zAtOJ6FaOYzyCF9HsA6f3iITfU/edit#)
 - The notebook can be found [here](http://localhost:8888/notebooks/SyriaTel%20Customer%20Churn.ipynb#3.5.2.-Decision-Tree-Classifier)
-- The Presentation Slides can be found [here]()
+- The Presentation Slides can be found [here](file:///C:/Users/Patience/Downloads/SyriaTel%20Customer%20Churn.pdf)
